@@ -122,5 +122,5 @@ function metro_plot(cdmx_df::DataFrame, lines_df::DataFrame, stations_df::DataFr
     xlims!(ax, -99.25, -98.95)
     ylims!(ax, 19.25, 19.55)
     resize_to_layout!(fig)
-    save(filename, fig)
+    save(filename, fig, pt_per_unit = 3)
 end
