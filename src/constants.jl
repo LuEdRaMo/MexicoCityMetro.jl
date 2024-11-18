@@ -19,3 +19,8 @@ const AGEBS_FILE = joinpath(PACKAGE_DIRECTORY, "data", "agebs_ZMVM.csv")
 
 # Daily origin-destiny network files root
 const DAY_FILE_ROOT = "od_cvegeo_09_01_"
+
+# Global parameters
+const METRO_MEAN_VELOCITY = 600 # m/min (36 km/h)
+const TRAFFIC_MEAN_VELOCITY = 300 # m/min (18 km/h)
+const MAXIMUM_DISTANCE_TO_METRO = 10_000 # m (10 km)
