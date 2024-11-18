@@ -75,6 +75,8 @@ end
 
 function time_matrix(D_mobility::SparseMatrixCSC{Float64, Int16},
     mobility_df::DataFrame,
+    metro_mean_velocity::T = METRO_MEAN_VELOCITY,
+    traffic_mean_velocity::T = TRAFFIC_MEAN_VELOCITY,
     kmetro::T = 2.0, ktraffic::T = 2.0,
     αmetro::T = 1.0, αtraffic::T = 1.0) where {T <: Real}
     # Initialize distance matrix
@@ -85,10 +87,10 @@ function time_matrix(D_mobility::SparseMatrixCSC{Float64, Int16},
     I, J, V = findnz(D_mobility)
     for (i, j, d) in zip(I, J, V)
         if i ≤ N_metro && j ≤ N_metro
-            _t_ = d / METRO_MEAN_VELOCITY
+            _t_ = d / metro_mean_velocity
             dist = powerlaw(_t_, kmetro * _t_, αmetro)
         else
-            _t_ = d / TRAFFIC_MEAN_VELOCITY
+            _t_ = d / traffic_mean_velocity
             dist = powerlaw(_t_, ktraffic * _t_, αtraffic)
         end
         t = rand(dist)
@@ -100,10 +102,13 @@ end
 
 function mobility_mean_velocity(D_mobility::SparseMatrixCSC{Float64, Int16},
     D_day::SparseMatrixCSC{Float64, Int32}, mobility_df::DataFrame;
+    metro_mean_velocity::T = METRO_MEAN_VELOCITY,
+    traffic_mean_velocity::T = TRAFFIC_MEAN_VELOCITY,
     kmetro::T = 2.0, ktraffic::T = 2.0,
     αmetro::T = 1.0, αtraffic::T = 1.0) where {T <: Real}
     # Time matrix
-    T_mobility = time_matrix(D_mobility, mobility_df, kmetro, ktraffic, αmetro, αtraffic)
+    T_mobility = time_matrix(D_mobility, mobility_df, metro_mean_velocity,
+        traffic_mean_velocity, kmetro, ktraffic, αmetro, αtraffic)
     # Mobility network
     N_metro = findfirst(startswith("0"), mobility_df.ID) - 1
     N_mobility = size(T_mobility, 1)
