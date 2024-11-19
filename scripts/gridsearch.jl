@@ -73,7 +73,7 @@ function main()
             metro_mean_velocity, traffic_mean_velocity,
             kmetro, ktraffic, αmetro, αtraffic), 1:N)
         # Save results
-        result[:, i] = kmetro, αmetro, mean(vs), std(vs)
+        result[:, i] .= kmetro, αmetro, mean(vs), std(vs)
     end
 
     # Save index and adjacency matrix
