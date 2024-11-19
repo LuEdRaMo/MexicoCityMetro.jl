@@ -64,7 +64,7 @@ function main()
     D_day = load_day(Date(2020, 1, 1), agebs_df)
     # Grid search
     iter = Iterators.product(kmetros, αmetros)
-    result = Matrix{T}(undef, 4, length(iter))
+    result = Matrix{Float64}(undef, 4, length(iter))
     for (i, params) in enumerate(iter)
         # Unfold
         kmetro, αmetro = params
