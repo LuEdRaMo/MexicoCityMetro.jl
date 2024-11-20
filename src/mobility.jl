@@ -32,7 +32,8 @@ end
 
 function mobility_plot(D_mobility::SparseMatrixCSC{Float64, Int16},
     cdmx_df::DataFrame, mobility_df::DataFrame, lines_df::DataFrame,
-    filename::String = "MOBILITYNETWORK.png")
+    filename::String = "MOBILITYNETWORK.png",
+    dcolor = x -> :navajowhite)
     # Number of metro stations
     N_metro = findfirst(startswith("0"), mobility_df.ID) - 1
     # Longitude and latitude
@@ -47,11 +48,14 @@ function mobility_plot(D_mobility::SparseMatrixCSC{Float64, Int16},
         strokewidth = 0.5
     )
     # AGEBs plot
+    dist2metro = map(c -> minimum(norm.(c .- mobility_df.COORDS[1:N_metro])).val,
+        mobility_df.COORDS)
     I, J, _ = findnz(D_mobility)
     for (i, j) in zip(I, J)
         (i ≤ N_metro && j ≤ N_metro) && continue
         (i < j) && continue
-        lines!(ax, [lon[i], lon[j]], [lat[i], lat[j]], label = "", color = :navajowhite,
+        d = min(dist2metro[i], dist2metro[j])
+        lines!(ax, [lon[i], lon[j]], [lat[i], lat[j]], label = "", color = dcolor(d),
         linewidth = 1)
     end
     scatter!(ax, lon[N_metro+1:end], lat[N_metro+1:end], label = "",

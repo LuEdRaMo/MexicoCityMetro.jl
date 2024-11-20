@@ -2,10 +2,9 @@
 function load_agebs(filename::String = AGEBS_FILE)
     # Load .csv file as DataFrame
     agebs_df = DataFrame(CSV.File(filename))
-    # Drop AGEBs without coordinates
+    # Drop AGEBs: (i) without coordinates, (ii) in Hidalgo or (iii) rural
     dropmissing!(agebs_df, [:IDGEO, :Long, :Lat])
-    # Drop AGEBs in Hidalgo
-    filter!(:Entity => !=("Hidalgo"), agebs_df)
+    filter!(r -> r.Entity != "Hidalgo" && r.Type != "Rural", agebs_df)
     # Convert coordinates to LonLat
     agebs_df.COORDS = @. Point(LatLon{WGS84Latest}(agebs_df.Lat, agebs_df.Long))
     # Keep only relevant columns
