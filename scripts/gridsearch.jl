@@ -34,6 +34,8 @@ end
 
 function main()
 
+    # Initial time
+    init_time = now()
     # Parse arguments from commandline
     parsed_args = parse_commandline()
     # Number of Monte Carlo samples
@@ -44,6 +46,8 @@ function main()
     println("MexicoCityMetro gridsearch")
     println("• Number of Monte Carlo samples: ", N)
     println("• Output file: ", output)
+    println("• Number of workers: ", nworkers(), "(", Threads.nthreads(),
+        " threads each)")
 
     # Preamble: load necessary data
     stations_df = load_metro_stations()
@@ -78,6 +82,9 @@ function main()
 
     # Save index and adjacency matrix
     jldsave(output; result)
+    # Final time
+    final_time = now()
+    println("• Run started ", init_time, " and finished ", final_time)
 
     nothing
 end
