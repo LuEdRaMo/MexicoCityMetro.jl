@@ -16,7 +16,7 @@ function meanlonlat(ps)
     return Point(LatLon{WGS84Latest}(lat, lon))
 end
 
-function metro_distance(ps, i::Int, j::Int)
+function metro_distance(ps, i::Int = 1, j::Int = length(ps))
     i, j = minmax(i, j)
     d = zero(Float64)
     for k in i:j-1

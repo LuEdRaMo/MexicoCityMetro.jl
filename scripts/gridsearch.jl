@@ -54,12 +54,12 @@ function main()
     lines_df = load_metro_lines()
     D_metro = metro_distance_matrix!(lines_df, stations_df)
     # Parameters
-    maximum_distance_to_metro = 10_000 # m
-    metro_mean_velocity = 36 * 1_000 / 60 # m/min
-    traffic_mean_velocity = 18 * 1_000 / 60 # m/min
-    kmetros = [1.25, 1.5, 2, 3, 5, 10]
-    ktraffic = 2.0
-    αmetros = LogRange(1e-3, 1e3, 10)
+    maximum_distance_to_metro = 10_000 # 10 km
+    metro_mean_velocity = 600.0 # 36 km/h
+    traffic_mean_velocity = 300.0 # 18 km/h
+    kmetros = 2:10
+    ktraffic = 5.0
+    αmetros = collect(0.0:10.0); αmetros[1] = eps()
     αtraffic = 1.0
     # Mobility network
     agebs_df = load_agebs()

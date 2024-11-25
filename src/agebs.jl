@@ -28,7 +28,7 @@ end
 
 function load_day(date::Date, agebs_df::DataFrame)
     # Load .csv file as DataFrame
-    filename = joinpath(PACKAGE_DIRECTORY, "data", DAY_FILE_ROOT *
+    filename = joinpath(PACKAGE_DIRECTORY, "data/days", DAY_FILE_ROOT *
         Dates.format(date, "YYYY_mm_dd") * ".csv")
     day_df = DataFrame(CSV.File(filename))
     # Search sources and targets in agebs_df.IDGEO
