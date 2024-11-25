@@ -54,10 +54,10 @@ function main()
     lines_df = load_metro_lines()
     D_metro = metro_distance_matrix!(lines_df, stations_df)
     # Parameters
-    maximum_distance_to_metro = 10_000 # 10 km
+    maximum_distance_to_metro = 10_000.0 # 10 km
     metro_mean_velocity = 600.0 # 36 km/h
     traffic_mean_velocity = 300.0 # 18 km/h
-    kmetros = 2:10
+    kmetros = 2.0:10.0
     ktraffic = 5.0
     αmetros = collect(0.0:10.0); αmetros[1] = eps()
     αtraffic = 1.0
@@ -68,16 +68,21 @@ function main()
     D_day = load_day(Date(2020, 1, 1), agebs_df)
     # Grid search
     iter = Iterators.product(kmetros, αmetros)
-    result = Matrix{Float64}(undef, 4, length(iter))
+    result = Matrix{Float64}(undef, 23, length(iter))
     for (i, params) in enumerate(iter)
         # Unfold
         kmetro, αmetro = params
         # Monte Carlo
-        vs = pmap(n -> mobility_mean_velocity(D_mobility, D_day, mobility_df;
+        SS = pmap(n -> mobility_mean_velocity(D_mobility, D_day, mobility_df;
             metro_mean_velocity, traffic_mean_velocity,
             kmetro, ktraffic, αmetro, αtraffic), 1:N)
+        Sp = reduce(hcat, first.(SS))
+        Sw = reduce(hcat, last.(SS))
+        vs = (Sp ./ Sw) * (60 / 1_000) # km / h
+        ps = mean(Sw, dims = 2)
         # Save results
-        result[:, i] .= kmetro, αmetro, mean(vs), std(vs)
+        result[:, i] .= vcat(kmetro, αmetro, mean(vs, dims = 2), std(vs, dims = 2),
+            ps / ps[1])
     end
 
     # Save index and adjacency matrix

@@ -122,13 +122,16 @@ function mobility_mean_velocity(D_mobility::SparseMatrixCSC{Float64, Int16},
         T_mobility)
     times = view(paths.dists, :, N_metro+1:N_mobility)
     I, J, W = findnz(D_day)
-    S, Sw = zero(Float64), zero(Float64)
+    # 400 m, 1 km, 5 km, 10 km, 15 km, 20 km, 25 km
+    bounds = [400, 1_000, 5_000, 10_000, 15_000, 20_000, 25_000]
+    Sp, Sw = zeros(Float64, 7), zeros(Float64, 7)
     for (i, j, w) in zip(I, J, W)
-        t = times[i, j]
         d = norm(mobility_df.COORDS[i+N_metro] - mobility_df.COORDS[j+N_metro]).val
-        S += w * (d/t)
-        Sw += w
+        t = times[i, j]
+        mask = d .> bounds
+        Sp[mask] .+= w * (d/t)
+        Sw[mask] .+= w
     end
 
-    return (S / Sw) * (60 // 1_000) # km/h
+    return Sp, Sw
 end
