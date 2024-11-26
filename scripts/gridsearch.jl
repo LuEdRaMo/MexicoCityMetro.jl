@@ -10,6 +10,10 @@ function parse_commandline()
     s.description = "Explore the parameter space of MexicoCityMetro"
 
     @add_arg_table! s begin
+        "--day", "-d"
+            help = "day of January 2020 for mobility data"
+            arg_type = Int
+            default = 1
         "--N", "-N"
             help = "number of Monte Carlo samples"
             arg_type = Int
@@ -38,15 +42,19 @@ function main()
     init_time = now()
     # Parse arguments from commandline
     parsed_args = parse_commandline()
+    # Day of January 2020 for mobility data
+    _day_::Int = parsed_args["day"]
+    date = Date(2020, 1, _day_)
     # Number of Monte Carlo samples
     N::Int = parsed_args["N"]
     # Output file
     output::String = parsed_args["output"]
     # Print header
     println("MexicoCityMetro gridsearch")
+    println("• Day for mobility data: ", date)
     println("• Number of Monte Carlo samples: ", N)
     println("• Output file: ", output)
-    println("• Number of workers: ", nworkers(), "(", Threads.nthreads(),
+    println("• Number of workers: ", nworkers(), " (", Threads.nthreads(),
         " threads each)")
 
     # Preamble: load necessary data
@@ -65,7 +73,7 @@ function main()
     agebs_df = load_agebs()
     link_metro_agebs!(agebs_df, stations_df, maximum_distance_to_metro)
     mobility_df, D_mobility = mobility_network(D_metro, stations_df, agebs_df)
-    D_day = load_day(Date(2020, 1, 1), agebs_df)
+    D_day = load_day(date, agebs_df)
     # Grid search
     iter = Iterators.product(kmetros, αmetros)
     result = Matrix{Float64}(undef, 23, length(iter))
