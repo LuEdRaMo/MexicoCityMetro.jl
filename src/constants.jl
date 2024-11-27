@@ -6,10 +6,20 @@ const PACKAGE_DIRECTORY = pkgdir(MexicoCityMetro)
 const METRO_STATIONS_FILE = joinpath(PACKAGE_DIRECTORY, "data", "STC_Metro_estaciones.kml")
 const METRO_LINES_FILE = joinpath(PACKAGE_DIRECTORY, "data", "STC_Metro_lineas.kml")
 # Official subway lines colors
-const METRO_LINES_COLORS = [colorant"#F04E98", colorant"#005EB8", colorant"#AF9800",
-    colorant"#6BBBAE", colorant"#FFD100", colorant"#DA291C",
-    colorant"#E87722", colorant"#009A44", colorant"#512F2E",
-    colorant"#981D97", colorant"#B1B3B3", colorant"#B0A32A"]
+const METRO_LINES_COLORS = Dict(
+    "1" => colorant"#F04E98",
+    "2" => colorant"#005EB8",
+    "3" => colorant"#AF9800",
+    "4" => colorant"#6BBBAE",
+    "5" => colorant"#FFD100",
+    "6" => colorant"#DA291C",
+    "7" => colorant"#E87722",
+    "8" => colorant"#009A44",
+    "9" => colorant"#512F2E",
+    "A" => colorant"#981D97",
+    "B" => colorant"#B1B3B3",
+    "12" => colorant"#B0A32A"
+)
 
 # AGEB: Área geoestadística básica
 

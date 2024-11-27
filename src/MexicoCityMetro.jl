@@ -12,7 +12,7 @@ import Graphs.Parallel
 
 export powerlaw, printpath
 export longitude, latitude, load_metro_stations, load_metro_lines,
-    metro_distance_matrix!, metro_plot
+    metro_distance_matrix!, dropline!, metro_plot
 export load_agebs, link_metro_agebs!, load_day
 export mobility_network, mobility_plot, time_matrix, mobility_mean_velocity
 

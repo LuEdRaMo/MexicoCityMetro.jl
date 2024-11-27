@@ -64,7 +64,7 @@ function mobility_plot(D_mobility::SparseMatrixCSC{Float64, Int16},
     for (i, line) in enumerate(eachrow(lines_df))
         _lon_ = longitude.(line.COORDS)
         _lat_ = latitude.(line.COORDS)
-        lines!(ax, _lon_, _lat_, label = "", color = METRO_LINES_COLORS[i],
+        lines!(ax, _lon_, _lat_, label = "", color = METRO_LINES_COLORS[line.LINEA],
             linewidth = 2)
     end
     # Metro stations

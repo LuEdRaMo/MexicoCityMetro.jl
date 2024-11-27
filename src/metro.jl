@@ -98,6 +98,16 @@ function metro_distance_matrix!(lines_df::DataFrame, stations_df::DataFrame)
     return D_metro
 end
 
+function dropline!(stations_df::DataFrame, lines_df::DataFrame, line::String)
+    # Drop stations of corresponding line
+    filter!(r -> r.LINEA != [line], stations_df)
+    stations_df.LINEA = filter.(!=(line), stations_df.LINEA)
+    # Drop corresponding metro line
+    filter!(r -> r.LINEA != line, lines_df)
+
+    return nothing
+end
+
 function metro_plot(cdmx_df::DataFrame, lines_df::DataFrame, stations_df::DataFrame,
     filename::String = "METRONETWORK.png")
     # Canvas
@@ -112,7 +122,8 @@ function metro_plot(cdmx_df::DataFrame, lines_df::DataFrame, stations_df::DataFr
     for (i, line) in enumerate(eachrow(lines_df))
         lon = longitude.(line.COORDS)
         lat = latitude.(line.COORDS)
-        lines!(ax, lon, lat, label = "", color = METRO_LINES_COLORS[i], linewidth = 2)
+        lines!(ax, lon, lat, label = "", color = METRO_LINES_COLORS[line.LINEA],
+            linewidth = 2)
     end
     # Metro stations
     lon = longitude.(stations_df.COORDS)

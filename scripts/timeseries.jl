@@ -10,6 +10,10 @@ function parse_commandline()
     during January 2020"
 
     @add_arg_table! s begin
+        "--line", "-l"
+            help = "metro line to drop"
+            arg_type = String
+            default = "0"
         "--N", "-N"
             help = "number of Monte Carlo samples"
             arg_type = Int
@@ -38,12 +42,15 @@ function main()
     init_time = now()
     # Parse arguments from commandline
     parsed_args = parse_commandline()
+    # Metro line to drop
+    line::String = parsed_args["line"]
     # Number of Monte Carlo samples
     N::Int = parsed_args["N"]
     # Output file
     output::String = parsed_args["output"]
     # Print header
     println("MexicoCityMetro January 2020 timeseries")
+    println("• Metro line to drop: ", line == "0" ? "None" : line)
     println("• Number of Monte Carlo samples: ", N)
     println("• Output file: ", output)
     println("• Number of workers: ", nworkers(), " (", Threads.nthreads(),
@@ -52,6 +59,9 @@ function main()
     # Preamble: load necessary data
     stations_df = load_metro_stations()
     lines_df = load_metro_lines()
+    if line != "0"
+        dropline!(stations_df, lines_df, line)
+    end
     D_metro = metro_distance_matrix!(lines_df, stations_df)
     # Parameters
     maximum_distance_to_metro = 10_000.0 # 10 km
