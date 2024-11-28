@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="STC_Metro_estaciones_utm14n_1" id="STC_Metro_estaciones_utm14n_1">
+	<SimpleField name="ALCALDIAS" type="string"></SimpleField>
+	<SimpleField name="AÑO" type="int"></SimpleField>
+	<SimpleField name="CVE_EOD17" type="string"></SimpleField>
+	<SimpleField name="CVE_EST" type="string"></SimpleField>
+	<SimpleField name="EST" type="string"></SimpleField>
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+	<SimpleField name="LINEA" type="string"></SimpleField>
+	<SimpleField name="NOMBRE" type="string"></SimpleField>
+	<SimpleField name="SISTEMA" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>STC_Metro_estaciones_utm14n_1</name>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05014</SimpleData>
+		<SimpleData name="CVE_EST">STC0101</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">0</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Pantitlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0747357270116,19.4163340855965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05020</SimpleData>
+		<SimpleData name="CVE_EST">STC0102</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Zaragoza</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0822888117768,19.4119204559374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05007</SimpleData>
+		<SimpleData name="CVE_EST">STC0103</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Gomez Farías</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0902103917112,19.4164784569074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05003</SimpleData>
+		<SimpleData name="CVE_EST">STC0104</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Boulevard Puerto Aéreo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0962587324102,19.4199419648502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05001</SimpleData>
+		<SimpleData name="CVE_EST">STC0105</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Balbuena</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1027743639742,19.4233553355752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05012</SimpleData>
+		<SimpleData name="CVE_EST">STC0106</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Moctezuma</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1097992691048,19.4268543466697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05017</SimpleData>
+		<SimpleData name="CVE_EST">STC0107</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">San Lázaro</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1142609523939,19.4300588496139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05004</SimpleData>
+		<SimpleData name="CVE_EST">STC0108</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Candelaria</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1209095500559,19.4295401407106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05011</SimpleData>
+		<SimpleData name="CVE_EST">STC0109</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Merced</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1250254185176,19.4254875715741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05015</SimpleData>
+		<SimpleData name="CVE_EST">STC0110</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Pino Suárez</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1326386119938,19.4259234951079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05009</SimpleData>
+		<SimpleData name="CVE_EST">STC0111</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Isabel La Católica</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1378304564626,19.4263935117982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05016</SimpleData>
+		<SimpleData name="CVE_EST">STC0112</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Salto del Agua</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1434062938696,19.4269481897419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05002</SimpleData>
+		<SimpleData name="CVE_EST">STC0113</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Balderas</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1494811514285,19.4269978760889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05006</SimpleData>
+		<SimpleData name="CVE_EST">STC0114</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">13</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Cuauhtémoc</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1545979513498,19.4256611110838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05008</SimpleData>
+		<SimpleData name="CVE_EST">STC0115</SimpleData>
+		<SimpleData name="EST">15</SimpleData>
+		<SimpleData name="FID">14</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Insurgentes</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1632888794771,19.4236518006073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05018</SimpleData>
+		<SimpleData name="CVE_EST">STC0116</SimpleData>
+		<SimpleData name="EST">16</SimpleData>
+		<SimpleData name="FID">15</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Sevilla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1711190739149,19.4218499159216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc / Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1969</SimpleData>
+		<SimpleData name="CVE_EOD17">05005</SimpleData>
+		<SimpleData name="CVE_EST">STC0117</SimpleData>
+		<SimpleData name="EST">17</SimpleData>
+		<SimpleData name="FID">16</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Chapultepec</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1764167315705,19.4207462950474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05010</SimpleData>
+		<SimpleData name="CVE_EST">STC0118</SimpleData>
+		<SimpleData name="EST">18</SimpleData>
+		<SimpleData name="FID">17</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Juanacatlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1819838294788,19.4129516424911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05019</SimpleData>
+		<SimpleData name="CVE_EST">STC0119</SimpleData>
+		<SimpleData name="EST">19</SimpleData>
+		<SimpleData name="FID">18</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Tacubaya</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1876365263169,19.4025138023399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Álvaro Obregón</SimpleData>
+		<SimpleData name="AÑO">1972</SimpleData>
+		<SimpleData name="CVE_EOD17">05013</SimpleData>
+		<SimpleData name="CVE_EST">STC0120</SimpleData>
+		<SimpleData name="EST">20</SimpleData>
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">01</SimpleData>
+		<SimpleData name="NOMBRE">Observatorio</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2004047460461,19.3982823756993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Naucalpan de Juárez</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05045</SimpleData>
+		<SimpleData name="CVE_EST">STC0201</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">20</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Cuatro Caminos</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2158424896968,19.4595932084921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05052</SimpleData>
+		<SimpleData name="CVE_EST">STC0202</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">21</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Panteones</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2029491295272,19.4586385607701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05059</SimpleData>
+		<SimpleData name="CVE_EST">STC0203</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">22</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Tacuba</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1882309344141,19.4593760107187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05046</SimpleData>
+		<SimpleData name="CVE_EST">STC0204</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">23</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Cuitláhuac</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1814957679122,19.4572538897392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05054</SimpleData>
+		<SimpleData name="CVE_EST">STC0205</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">24</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Popotla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1754938143412,19.4529092198016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05044</SimpleData>
+		<SimpleData name="CVE_EST">STC0206</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">25</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Colegio Militar</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1717792333168,19.4492735549972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05051</SimpleData>
+		<SimpleData name="CVE_EST">STC0207</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">26</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Normal</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1672740374105,19.4445577055246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05058</SimpleData>
+		<SimpleData name="CVE_EST">STC0208</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">San Cosme</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1606620728068,19.4419042544265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05056</SimpleData>
+		<SimpleData name="CVE_EST">STC0209</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">28</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Revolución</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1542278257134,19.4392271791397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05049</SimpleData>
+		<SimpleData name="CVE_EST">STC0210</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">29</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Hidalgo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1472234055158,19.4375467479036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05042</SimpleData>
+		<SimpleData name="CVE_EST">STC0211</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">30</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Bellas Artes</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1416136373712,19.436377755896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05041</SimpleData>
+		<SimpleData name="CVE_EST">STC0212</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">31</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Allende</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.136867840237,19.4355580032712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05064</SimpleData>
+		<SimpleData name="CVE_EST">STC0213</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">32</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Zócalo/Tenochtitlan</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1322510732777,19.4325019109759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05053</SimpleData>
+		<SimpleData name="CVE_EST">STC0214</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">33</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Pino Suárez</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1329418267059,19.4243847117224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05057</SimpleData>
+		<SimpleData name="CVE_EST">STC0215</SimpleData>
+		<SimpleData name="EST">15</SimpleData>
+		<SimpleData name="FID">34</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">San Antonio Abad</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1345398741567,19.4160216470691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05043</SimpleData>
+		<SimpleData name="CVE_EST">STC0216</SimpleData>
+		<SimpleData name="EST">16</SimpleData>
+		<SimpleData name="FID">35</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Chabacano</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1356181172527,19.4091798692776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez / Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05061</SimpleData>
+		<SimpleData name="CVE_EST">STC0217</SimpleData>
+		<SimpleData name="EST">17</SimpleData>
+		<SimpleData name="FID">36</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Viaducto</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1368995924884,19.400868658019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05063</SimpleData>
+		<SimpleData name="CVE_EST">STC0218</SimpleData>
+		<SimpleData name="EST">18</SimpleData>
+		<SimpleData name="FID">37</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Xola</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1378081793211,19.3952105099504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05062</SimpleData>
+		<SimpleData name="CVE_EST">STC0219</SimpleData>
+		<SimpleData name="EST">19</SimpleData>
+		<SimpleData name="FID">38</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Villa de Cortés</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1389591662212,19.387581775826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05050</SimpleData>
+		<SimpleData name="CVE_EST">STC0220</SimpleData>
+		<SimpleData name="EST">20</SimpleData>
+		<SimpleData name="FID">39</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Nativitas</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1401878897076,19.3795327609136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05055</SimpleData>
+		<SimpleData name="CVE_EST">STC0221</SimpleData>
+		<SimpleData name="EST">21</SimpleData>
+		<SimpleData name="FID">40</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Portales</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1415735549144,19.369924838668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05047</SimpleData>
+		<SimpleData name="CVE_EST">STC0222</SimpleData>
+		<SimpleData name="EST">22</SimpleData>
+		<SimpleData name="FID">41</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Ermita</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1429037615247,19.3619792997643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Coyoacán</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05048</SimpleData>
+		<SimpleData name="CVE_EST">STC0223</SimpleData>
+		<SimpleData name="EST">23</SimpleData>
+		<SimpleData name="FID">42</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">General Anaya</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1450063629545,19.3532359148612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Coyoacán</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05060</SimpleData>
+		<SimpleData name="CVE_EST">STC0224</SimpleData>
+		<SimpleData name="EST">24</SimpleData>
+		<SimpleData name="FID">43</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">02</SimpleData>
+		<SimpleData name="NOMBRE">Tasqueña</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1395327763843,19.3437570982777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1979</SimpleData>
+		<SimpleData name="CVE_EOD17">05076</SimpleData>
+		<SimpleData name="CVE_EST">STC0301</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">44</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Indios Verdes</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1195099382592,19.4953376186457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1979</SimpleData>
+		<SimpleData name="CVE_EOD17">05069</SimpleData>
+		<SimpleData name="CVE_EST">STC0302</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">45</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Deportivo 18 de Marzo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1254979171246,19.4851141513425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1979</SimpleData>
+		<SimpleData name="CVE_EOD17">05082</SimpleData>
+		<SimpleData name="CVE_EST">STC0303</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">46</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Potrero</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.132013682994,19.4771920114807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1978</SimpleData>
+		<SimpleData name="CVE_EOD17">05078</SimpleData>
+		<SimpleData name="CVE_EST">STC0304</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">47</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">La Raza</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1395062302247,19.468880133789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05083</SimpleData>
+		<SimpleData name="CVE_EST">STC0305</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">48</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Tlatelolco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1431330841341,19.4550581428037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05073</SimpleData>
+		<SimpleData name="CVE_EST">STC0306</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">49</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Guerrero</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1451933440698,19.4447263348284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05074</SimpleData>
+		<SimpleData name="CVE_EST">STC0307</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">50</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Hidalgo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1467827213369,19.4373823922626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05077</SimpleData>
+		<SimpleData name="CVE_EST">STC0308</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">51</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Juárez</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1476833057632,19.4332503464504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05065</SimpleData>
+		<SimpleData name="CVE_EST">STC0309</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">52</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Balderas</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1490604800387,19.426480093367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05080</SimpleData>
+		<SimpleData name="CVE_EST">STC0310</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">53</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Niños Héroes/Poder Judicial CDMX</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1503642652194,19.4194843101919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1970</SimpleData>
+		<SimpleData name="CVE_EOD17">05075</SimpleData>
+		<SimpleData name="CVE_EST">STC0311</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">54</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Hospital General</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.153245361779,19.4137587535794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1980</SimpleData>
+		<SimpleData name="CVE_EOD17">05066</SimpleData>
+		<SimpleData name="CVE_EST">STC0312</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">55</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Centro Médico</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1551346895237,19.4074531474438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1980</SimpleData>
+		<SimpleData name="CVE_EOD17">05081</SimpleData>
+		<SimpleData name="CVE_EST">STC0313</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">56</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Etiopía/Plaza de la Transparencia</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1560314153493,19.3959205316174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1980</SimpleData>
+		<SimpleData name="CVE_EOD17">05072</SimpleData>
+		<SimpleData name="CVE_EST">STC0314</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">57</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Eugenia</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1572045975661,19.3861685181154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1980</SimpleData>
+		<SimpleData name="CVE_EOD17">05071</SimpleData>
+		<SimpleData name="CVE_EST">STC0315</SimpleData>
+		<SimpleData name="EST">15</SimpleData>
+		<SimpleData name="FID">58</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">División del Norte</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1594791658047,19.3791844354023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1980</SimpleData>
+		<SimpleData name="CVE_EOD17">05085</SimpleData>
+		<SimpleData name="CVE_EST">STC0316</SimpleData>
+		<SimpleData name="EST">16</SimpleData>
+		<SimpleData name="FID">59</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Zapata</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1645102976557,19.3711917865544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05068</SimpleData>
+		<SimpleData name="CVE_EST">STC0317</SimpleData>
+		<SimpleData name="EST">17</SimpleData>
+		<SimpleData name="FID">60</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Coyoacán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1708615273429,19.3613590773501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Álvaro Obregón / Coyoacán</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05070</SimpleData>
+		<SimpleData name="CVE_EST">STC0318</SimpleData>
+		<SimpleData name="EST">18</SimpleData>
+		<SimpleData name="FID">61</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Viveros/Derechos Humanos</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1760010860638,19.3534590245247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Coyoacán</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05079</SimpleData>
+		<SimpleData name="CVE_EST">STC0319</SimpleData>
+		<SimpleData name="EST">19</SimpleData>
+		<SimpleData name="FID">62</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Miguel Ángel de Quevedo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1807566556441,19.3462518330859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Coyoacán</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05067</SimpleData>
+		<SimpleData name="CVE_EST">STC0320</SimpleData>
+		<SimpleData name="EST">20</SimpleData>
+		<SimpleData name="FID">63</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Copilco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.176973595216,19.3360992748033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Coyoacán</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05084</SimpleData>
+		<SimpleData name="CVE_EST">STC0321</SimpleData>
+		<SimpleData name="EST">21</SimpleData>
+		<SimpleData name="FID">64</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">03</SimpleData>
+		<SimpleData name="NOMBRE">Universidad</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1739384555895,19.3243534828943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05094</SimpleData>
+		<SimpleData name="CVE_EST">STC0401</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">65</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Santa Anita</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1216956042586,19.402891572701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05091</SimpleData>
+		<SimpleData name="CVE_EST">STC0402</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">66</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Jamaica</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1217435881252,19.4109150604184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05090</SimpleData>
+		<SimpleData name="CVE_EST">STC0403</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">67</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Fray Servando</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1205334529446,19.4215902668852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05088</SimpleData>
+		<SimpleData name="CVE_EST">STC0404</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">68</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Candelaria</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1194262857993,19.4287642237116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05093</SimpleData>
+		<SimpleData name="CVE_EST">STC0405</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">69</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Morelos</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1181521225066,19.4396641648923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05087</SimpleData>
+		<SimpleData name="CVE_EST">STC0406</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">70</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Canal del Norte</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.116133050764,19.448945007975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05089</SimpleData>
+		<SimpleData name="CVE_EST">STC0407</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">71</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Consulado</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1139038484711,19.4580181992165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05086</SimpleData>
+		<SimpleData name="CVE_EST">STC0408</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">72</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Bondojito</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1119767785032,19.4646312013462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05095</SimpleData>
+		<SimpleData name="CVE_EST">STC0409</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">73</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Talismán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1080122386153,19.4743583148983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05092</SimpleData>
+		<SimpleData name="CVE_EST">STC0410</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">74</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">04</SimpleData>
+		<SimpleData name="NOMBRE">Martín Carrera</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1043694774545,19.4850441446716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05106</SimpleData>
+		<SimpleData name="CVE_EST">STC0501</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">75</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Politécnico</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1492059926009,19.5006786986512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05101</SimpleData>
+		<SimpleData name="CVE_EST">STC0502</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">76</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Instituto del Petróleo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1447097491332,19.4893393093343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05097</SimpleData>
+		<SimpleData name="CVE_EST">STC0503</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">77</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Autobuses del Norte</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1406507385823,19.4790708959088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05102</SimpleData>
+		<SimpleData name="CVE_EST">STC0504</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">78</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">La Raza</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1365156505057,19.4696664705858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero / Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05103</SimpleData>
+		<SimpleData name="CVE_EST">STC0505</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">79</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Misterios</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1302395703195,19.4631121956633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero / Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1982</SimpleData>
+		<SimpleData name="CVE_EOD17">05108</SimpleData>
+		<SimpleData name="CVE_EST">STC0506</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">80</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Valle Gómez</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1194909906661,19.458872139807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero / Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05098</SimpleData>
+		<SimpleData name="CVE_EST">STC0507</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">81</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Consulado</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1135362314782,19.4551358749922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero / Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05099</SimpleData>
+		<SimpleData name="CVE_EST">STC0508</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">82</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Eduardo Molina</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1052996984814,19.4513975137798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero / Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05096</SimpleData>
+		<SimpleData name="CVE_EST">STC0509</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">83</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Aragón</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0962051537684,19.4512575884321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05104</SimpleData>
+		<SimpleData name="CVE_EST">STC0510</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">84</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Oceanía</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0868729240561,19.4450204861267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05107</SimpleData>
+		<SimpleData name="CVE_EST">STC0511</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">85</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Terminal Aérea</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.088076237359,19.4342651017829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05100</SimpleData>
+		<SimpleData name="CVE_EST">STC0512</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">86</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Hangares</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0881337745976,19.4243499078649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1981</SimpleData>
+		<SimpleData name="CVE_EOD17">05105</SimpleData>
+		<SimpleData name="CVE_EST">STC0513</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">87</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">05</SimpleData>
+		<SimpleData name="NOMBRE">Pantitlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0743288080866,19.4151047734735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05112</SimpleData>
+		<SimpleData name="CVE_EST">STC0601</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">88</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">El Rosario</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1997698162227,19.5046301436021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05118</SimpleData>
+		<SimpleData name="CVE_EST">STC0602</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">89</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Tezozómoc</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1960229869997,19.4948951640825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05110</SimpleData>
+		<SimpleData name="CVE_EST">STC0603</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">90</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">UAM Azcapotzalco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1862673087871,19.4909081429212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05109</SimpleData>
+		<SimpleData name="CVE_EST">STC0604</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">91</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Ferrería/Arena Ciudad de México</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1741516825964,19.4906734290522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05117</SimpleData>
+		<SimpleData name="CVE_EST">STC0605</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">92</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Norte 45</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1629903540745,19.4886714135058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05119</SimpleData>
+		<SimpleData name="CVE_EST">STC0606</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">93</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Vallejo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1560043094639,19.4898477869347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1983</SimpleData>
+		<SimpleData name="CVE_EOD17">05113</SimpleData>
+		<SimpleData name="CVE_EST">STC0607</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">94</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Instituto del Petróleo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.148125998809,19.4910442313785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1986</SimpleData>
+		<SimpleData name="CVE_EOD17">05115</SimpleData>
+		<SimpleData name="CVE_EST">STC0608</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">95</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Lindavista</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.135071417918,19.4881129877919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1986</SimpleData>
+		<SimpleData name="CVE_EOD17">05111</SimpleData>
+		<SimpleData name="CVE_EST">STC0609</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">96</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Deportivo 18 de Marzo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1253036586599,19.4834820172731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1986</SimpleData>
+		<SimpleData name="CVE_EOD17">05114</SimpleData>
+		<SimpleData name="CVE_EST">STC0610</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">97</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">La Villa/Basílica</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1183692618618,19.4817358082672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1986</SimpleData>
+		<SimpleData name="CVE_EOD17">05116</SimpleData>
+		<SimpleData name="CVE_EST">STC0611</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">98</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">06</SimpleData>
+		<SimpleData name="NOMBRE">Martín Carrera</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1074753126811,19.4829388215349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05125</SimpleData>
+		<SimpleData name="CVE_EST">STC0701</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">99</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">El Rosario</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.20011586529,19.5047378744369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05120</SimpleData>
+		<SimpleData name="CVE_EST">STC0702</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">100</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Aquiles Serdán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1953523273033,19.4906401427856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05123</SimpleData>
+		<SimpleData name="CVE_EST">STC0703</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">101</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Camarones</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1900375714651,19.4791115426839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Azcapotzalco</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05128</SimpleData>
+		<SimpleData name="CVE_EST">STC0704</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">102</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Refinería</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1905055272923,19.4694728943423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05132</SimpleData>
+		<SimpleData name="CVE_EST">STC0705</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">103</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Tacuba</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1871690041759,19.458234758758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05130</SimpleData>
+		<SimpleData name="CVE_EST">STC0706</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">104</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">San Joaquín</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1917669640884,19.4450075396824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05127</SimpleData>
+		<SimpleData name="CVE_EST">STC0707</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">105</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Polanco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1909251080933,19.4335531356231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1984</SimpleData>
+		<SimpleData name="CVE_EOD17">05121</SimpleData>
+		<SimpleData name="CVE_EST">STC0708</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">106</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Auditorio</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1920289044083,19.4257638255443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1985</SimpleData>
+		<SimpleData name="CVE_EOD17">05124</SimpleData>
+		<SimpleData name="CVE_EST">STC0709</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">107</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Constituyentes</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1913518554287,19.4117708661942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1985</SimpleData>
+		<SimpleData name="CVE_EOD17">05133</SimpleData>
+		<SimpleData name="CVE_EST">STC0710</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">108</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Tacubaya</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1867544590117,19.4021902182754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1985</SimpleData>
+		<SimpleData name="CVE_EOD17">05131</SimpleData>
+		<SimpleData name="CVE_EST">STC0711</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">109</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">San Pedro de Los Pinos</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1858059348452,19.3914917728493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1985</SimpleData>
+		<SimpleData name="CVE_EOD17">05129</SimpleData>
+		<SimpleData name="CVE_EST">STC0712</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">110</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">San Antonio</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1866135527795,19.3843376702526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">1985</SimpleData>
+		<SimpleData name="CVE_EOD17">05126</SimpleData>
+		<SimpleData name="CVE_EST">STC0713</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">111</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Mixcoac</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1875824155367,19.3762565016623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Álvaro Obregón</SimpleData>
+		<SimpleData name="AÑO">1985</SimpleData>
+		<SimpleData name="CVE_EOD17">05122</SimpleData>
+		<SimpleData name="CVE_EST">STC0714</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">112</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">07</SimpleData>
+		<SimpleData name="NOMBRE">Barranca del Muerto</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1892637068946,19.3615015632866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05144</SimpleData>
+		<SimpleData name="CVE_EST">STC0801</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">113</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Garibaldi/Lagunilla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1390044127458,19.4440012885008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05137</SimpleData>
+		<SimpleData name="CVE_EST">STC0802</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">114</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Bellas Artes</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1404207278498,19.4370129122167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05150</SimpleData>
+		<SimpleData name="CVE_EST">STC0803</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">115</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">San Juan de Letrán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1412506105436,19.431580449036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05149</SimpleData>
+		<SimpleData name="CVE_EST">STC0804</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">116</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Salto del Agua</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1418517464743,19.427718297698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05142</SimpleData>
+		<SimpleData name="CVE_EST">STC0805</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">117</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Doctores</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1431894086747,19.4215456115771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05148</SimpleData>
+		<SimpleData name="CVE_EST">STC0806</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">118</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Obrera</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1440379637238,19.4132403762094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05139</SimpleData>
+		<SimpleData name="CVE_EST">STC0807</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">119</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Chabacano</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1337513352675,19.4102074910756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc / Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05147</SimpleData>
+		<SimpleData name="CVE_EST">STC0808</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">120</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">La Viga</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1262690624544,19.4067094344043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05151</SimpleData>
+		<SimpleData name="CVE_EST">STC0809</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">121</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Santa Anita</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1206572396612,19.4041234343159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05141</SimpleData>
+		<SimpleData name="CVE_EST">STC0810</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">122</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Coyuya</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1134804312185,19.3983028957149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05145</SimpleData>
+		<SimpleData name="CVE_EST">STC0811</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">123</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Iztacalco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1121117308855,19.3882887574652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05135</SimpleData>
+		<SimpleData name="CVE_EST">STC0812</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">124</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Apatlaco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1094901464203,19.3790998138262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05134</SimpleData>
+		<SimpleData name="CVE_EST">STC0813</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">125</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Aculco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1077035934306,19.3732114106122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05143</SimpleData>
+		<SimpleData name="CVE_EST">STC0814</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">126</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Escuadrón 201</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1094849842917,19.3648364116397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05136</SimpleData>
+		<SimpleData name="CVE_EST">STC0815</SimpleData>
+		<SimpleData name="EST">15</SimpleData>
+		<SimpleData name="FID">127</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Atlalilco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1013094299501,19.3560844836742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05146</SimpleData>
+		<SimpleData name="CVE_EST">STC0816</SimpleData>
+		<SimpleData name="EST">16</SimpleData>
+		<SimpleData name="FID">128</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Iztapalapa</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0934490767048,19.3578249372119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05138</SimpleData>
+		<SimpleData name="CVE_EST">STC0817</SimpleData>
+		<SimpleData name="EST">17</SimpleData>
+		<SimpleData name="FID">129</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Cerro de la Estrella</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0856160764872,19.3560478725005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05152</SimpleData>
+		<SimpleData name="CVE_EST">STC0818</SimpleData>
+		<SimpleData name="EST">18</SimpleData>
+		<SimpleData name="FID">130</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">UAM-I</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.074817418905,19.3510561668573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1994</SimpleData>
+		<SimpleData name="CVE_EOD17">05140</SimpleData>
+		<SimpleData name="CVE_EST">STC0819</SimpleData>
+		<SimpleData name="EST">19</SimpleData>
+		<SimpleData name="FID">131</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">08</SimpleData>
+		<SimpleData name="NOMBRE">Constitución de 1917</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0637988499462,19.3459684059282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza / Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05160</SimpleData>
+		<SimpleData name="CVE_EST">STC0901</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">132</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Pantitlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0722053449007,19.4153511689158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza / Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05162</SimpleData>
+		<SimpleData name="CVE_EST">STC0902</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">133</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Puebla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0823858796758,19.4071921429836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza / Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05156</SimpleData>
+		<SimpleData name="CVE_EST">STC0903</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">134</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Ciudad Deportiva</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0912519463776,19.4084339822405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05164</SimpleData>
+		<SimpleData name="CVE_EST">STC0904</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">135</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Velódromo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1031577122238,19.408539286354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05159</SimpleData>
+		<SimpleData name="CVE_EST">STC0905</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">136</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Mixhiuca</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1129684767673,19.4083714401572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05157</SimpleData>
+		<SimpleData name="CVE_EST">STC0906</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">137</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Jamaica</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1223497601891,19.4091031278764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05154</SimpleData>
+		<SimpleData name="CVE_EST">STC0907</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">138</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Chabacano</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1339729920103,19.4085145344819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05158</SimpleData>
+		<SimpleData name="CVE_EST">STC0908</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">139</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Lázaro Cárdenas</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1446282628844,19.4072182738387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1987</SimpleData>
+		<SimpleData name="CVE_EOD17">05153</SimpleData>
+		<SimpleData name="CVE_EST">STC0909</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">140</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Centro Médico</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1560279392148,19.4065613532775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05155</SimpleData>
+		<SimpleData name="CVE_EST">STC0910</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">141</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Chilpancingo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.168519364246,19.4059298588274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc / Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05161</SimpleData>
+		<SimpleData name="CVE_EST">STC0911</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">142</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Patriotismo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1789225975409,19.4061089929018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Miguel Hidalgo</SimpleData>
+		<SimpleData name="AÑO">1988</SimpleData>
+		<SimpleData name="CVE_EOD17">05163</SimpleData>
+		<SimpleData name="CVE_EST">STC0912</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">143</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">09</SimpleData>
+		<SimpleData name="NOMBRE">Tacubaya</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1877610910093,19.4014605799041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Tláhuac</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05037</SimpleData>
+		<SimpleData name="CVE_EST">STC1201</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">144</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Tláhuac</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0141983243777,19.2860222772902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Tláhuac</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05038</SimpleData>
+		<SimpleData name="CVE_EST">STC1202</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">145</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Tlaltenco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0240307466311,19.2943533791079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Tláhuac</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05040</SimpleData>
+		<SimpleData name="CVE_EST">STC1203</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">146</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Zapotitlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0343068900396,19.2966555865151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Tláhuac</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05031</SimpleData>
+		<SimpleData name="CVE_EST">STC1204</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">147</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Nopalera</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0459928688536,19.2999573048893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Tláhuac</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05032</SimpleData>
+		<SimpleData name="CVE_EST">STC1205</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">148</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Olivos</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0595114950179,19.3043219960022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05036</SimpleData>
+		<SimpleData name="CVE_EST">STC1206</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">149</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Tezonco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0652702637027,19.3063088255097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05034</SimpleData>
+		<SimpleData name="CVE_EST">STC1207</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">150</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Periferico Oriente</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0745057507842,19.3176115684651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05022</SimpleData>
+		<SimpleData name="CVE_EST">STC1208</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">151</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Calle 11</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0858728643671,19.3204711518717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05028</SimpleData>
+		<SimpleData name="CVE_EST">STC1209</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">152</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Lomas Estrella</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0957504815149,19.3221488563441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05035</SimpleData>
+		<SimpleData name="CVE_EST">STC1210</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">153</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">San Andres Tomatlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1045158609058,19.3281454795207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05023</SimpleData>
+		<SimpleData name="CVE_EST">STC1211</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">154</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Culhuacán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1089587451729,19.3368456110796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05021</SimpleData>
+		<SimpleData name="CVE_EST">STC1212</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">155</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Atlalilco</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1062431653598,19.3527541728149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa / Coyoacán</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05029</SimpleData>
+		<SimpleData name="CVE_EST">STC1213</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">156</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Mexicaltzingo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1231432322264,19.3577625360859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05025</SimpleData>
+		<SimpleData name="CVE_EST">STC1214</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">157</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Ermita</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1416313630544,19.3598235030238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05024</SimpleData>
+		<SimpleData name="CVE_EST">STC1215</SimpleData>
+		<SimpleData name="EST">15</SimpleData>
+		<SimpleData name="FID">158</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Eje Central</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1514233614786,19.3613412379386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05033</SimpleData>
+		<SimpleData name="CVE_EST">STC1216</SimpleData>
+		<SimpleData name="EST">16</SimpleData>
+		<SimpleData name="FID">159</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Parque de los Venados</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1587177189718,19.3706588349775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05039</SimpleData>
+		<SimpleData name="CVE_EST">STC1217</SimpleData>
+		<SimpleData name="EST">17</SimpleData>
+		<SimpleData name="FID">160</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Zapata</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.165599315594,19.370845301557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05026</SimpleData>
+		<SimpleData name="CVE_EST">STC1218</SimpleData>
+		<SimpleData name="EST">18</SimpleData>
+		<SimpleData name="FID">161</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Hospital 20 de Noviembre</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1708844627683,19.3720133769518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05027</SimpleData>
+		<SimpleData name="CVE_EST">STC1219</SimpleData>
+		<SimpleData name="EST">19</SimpleData>
+		<SimpleData name="FID">162</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Insurgentes Sur</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1782501292525,19.3735534702271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Benito Juárez</SimpleData>
+		<SimpleData name="AÑO">2012</SimpleData>
+		<SimpleData name="CVE_EOD17">05030</SimpleData>
+		<SimpleData name="CVE_EST">STC1220</SimpleData>
+		<SimpleData name="EST">20</SimpleData>
+		<SimpleData name="FID">163</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">12</SimpleData>
+		<SimpleData name="NOMBRE">Mixcoac</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1867305010938,19.3756988234363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05171</SimpleData>
+		<SimpleData name="CVE_EST">STCLA01</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">164</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Pantitlán</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal / Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0719229371573,19.4152975245419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05166</SimpleData>
+		<SimpleData name="CVE_EST">STCLA02</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">165</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Agrícola Oriental</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0695664643094,19.4046188959313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztacalco</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05167</SimpleData>
+		<SimpleData name="CVE_EST">STCLA03</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">166</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Canal de San Juan</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0594228006603,19.3987629311997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05174</SimpleData>
+		<SimpleData name="CVE_EST">STCLA04</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">167</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Tepalcates</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0463293973572,19.3912764949601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05168</SimpleData>
+		<SimpleData name="CVE_EST">STCLA05</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">168</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Guelatao</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0356596006999,19.3851538874636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05172</SimpleData>
+		<SimpleData name="CVE_EST">STCLA06</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">169</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Peñón Viejo</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0170548364123,19.373305051789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05165</SimpleData>
+		<SimpleData name="CVE_EST">STCLA07</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">170</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Acatitla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0056727168596,19.3647173903962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Iztapalapa</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05173</SimpleData>
+		<SimpleData name="CVE_EST">STCLA08</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">171</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Santa Marta</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.9951783232363,19.3603050473717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - La Paz</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05170</SimpleData>
+		<SimpleData name="CVE_EST">STCLA09</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">172</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">Los Reyes</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.9768667825044,19.35903746199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - La Paz</SimpleData>
+		<SimpleData name="AÑO">1991</SimpleData>
+		<SimpleData name="CVE_EOD17">05169</SimpleData>
+		<SimpleData name="CVE_EST">STCLA10</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">173</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">A</SimpleData>
+		<SimpleData name="NOMBRE">La Paz</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.9609372504268,19.3505615721333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05176</SimpleData>
+		<SimpleData name="CVE_EST">STCLB01</SimpleData>
+		<SimpleData name="EST">01</SimpleData>
+		<SimpleData name="FID">174</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Buenavista</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1523513774263,19.4461859033596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05181</SimpleData>
+		<SimpleData name="CVE_EST">STCLB02</SimpleData>
+		<SimpleData name="EST">02</SimpleData>
+		<SimpleData name="FID">175</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Guerrero</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1461387273867,19.4451448325434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05180</SimpleData>
+		<SimpleData name="CVE_EST">STCLB03</SimpleData>
+		<SimpleData name="EST">03</SimpleData>
+		<SimpleData name="FID">176</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Garibaldi/Lagunilla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1378656648572,19.443889632102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05183</SimpleData>
+		<SimpleData name="CVE_EST">STCLB04</SimpleData>
+		<SimpleData name="EST">04</SimpleData>
+		<SimpleData name="FID">177</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Lagunilla</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1302304292358,19.4432200418277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Cuauhtémoc</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05194</SimpleData>
+		<SimpleData name="CVE_EST">STCLB05</SimpleData>
+		<SimpleData name="EST">05</SimpleData>
+		<SimpleData name="FID">178</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Tepito</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1240674402985,19.4427893912954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05184</SimpleData>
+		<SimpleData name="CVE_EST">STCLB06</SimpleData>
+		<SimpleData name="EST">06</SimpleData>
+		<SimpleData name="FID">179</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Morelos</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1195687670245,19.4391666272813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05193</SimpleData>
+		<SimpleData name="CVE_EST">STCLB07</SimpleData>
+		<SimpleData name="EST">07</SimpleData>
+		<SimpleData name="FID">180</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">San Lázaro</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1129609726677,19.4323709345865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05190</SimpleData>
+		<SimpleData name="CVE_EST">STCLB08</SimpleData>
+		<SimpleData name="EST">08</SimpleData>
+		<SimpleData name="FID">181</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Ricardo Flores Magón</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1037087411755,19.4365653733733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05192</SimpleData>
+		<SimpleData name="CVE_EST">STCLB09</SimpleData>
+		<SimpleData name="EST">09</SimpleData>
+		<SimpleData name="FID">182</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Romero Rubio</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.094201674731,19.4408353541655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero / Venustiano Carranza</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05187</SimpleData>
+		<SimpleData name="CVE_EST">STCLB10</SimpleData>
+		<SimpleData name="EST">10</SimpleData>
+		<SimpleData name="FID">183</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Oceanía</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Transbordo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0872173256579,19.4456948269585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05178</SimpleData>
+		<SimpleData name="CVE_EST">STCLB11</SimpleData>
+		<SimpleData name="EST">11</SimpleData>
+		<SimpleData name="FID">184</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Deportivo Oceanía</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0793342306704,19.4510110972597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05175</SimpleData>
+		<SimpleData name="CVE_EST">STCLB12</SimpleData>
+		<SimpleData name="EST">12</SimpleData>
+		<SimpleData name="FID">185</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Bosque de Aragón</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0692886960206,19.4580947729639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Gustavo A. Madero</SimpleData>
+		<SimpleData name="AÑO">1999</SimpleData>
+		<SimpleData name="CVE_EOD17">05195</SimpleData>
+		<SimpleData name="CVE_EST">STCLB13</SimpleData>
+		<SimpleData name="EST">13</SimpleData>
+		<SimpleData name="FID">186</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Villa de Aragón</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0613819668696,19.4616707919448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Nezahualcóyotl</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05186</SimpleData>
+		<SimpleData name="CVE_EST">STCLB14</SimpleData>
+		<SimpleData name="EST">14</SimpleData>
+		<SimpleData name="FID">187</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Nezahualcóyotl</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0546133365033,19.472885633632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Nezahualcóyotl</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05182</SimpleData>
+		<SimpleData name="CVE_EST">STCLB15</SimpleData>
+		<SimpleData name="EST">15</SimpleData>
+		<SimpleData name="FID">188</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Impulsora</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0489571600943,19.4857532230014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Nezahualcóyotl</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05191</SimpleData>
+		<SimpleData name="CVE_EST">STCLB16</SimpleData>
+		<SimpleData name="EST">16</SimpleData>
+		<SimpleData name="FID">189</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Río de los Remedios</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.046786641755,19.4906886755851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Ecatepec</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05185</SimpleData>
+		<SimpleData name="CVE_EST">STCLB17</SimpleData>
+		<SimpleData name="EST">17</SimpleData>
+		<SimpleData name="FID">190</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Múzquiz</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0420671972603,19.5014903283564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Ecatepec</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05179</SimpleData>
+		<SimpleData name="CVE_EST">STCLB18</SimpleData>
+		<SimpleData name="EST">18</SimpleData>
+		<SimpleData name="FID">191</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Ecatepec</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0360693374375,19.5151250827138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Ecatepec</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05188</SimpleData>
+		<SimpleData name="CVE_EST">STCLB19</SimpleData>
+		<SimpleData name="EST">19</SimpleData>
+		<SimpleData name="FID">192</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Olímpica</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0333424943889,19.5213449342284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Ecatepec</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05189</SimpleData>
+		<SimpleData name="CVE_EST">STCLB20</SimpleData>
+		<SimpleData name="EST">20</SimpleData>
+		<SimpleData name="FID">193</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Plaza Aragón</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Intermedia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0301845496608,19.5284758938537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STC Metro</name>
+	<ExtendedData><SchemaData schemaUrl="#STC_Metro_estaciones_utm14n_1">
+		<SimpleData name="ALCALDIAS">Estado de México - Ecatepec</SimpleData>
+		<SimpleData name="AÑO">2000</SimpleData>
+		<SimpleData name="CVE_EOD17">05177</SimpleData>
+		<SimpleData name="CVE_EST">STCLB21</SimpleData>
+		<SimpleData name="EST">21</SimpleData>
+		<SimpleData name="FID">194</SimpleData>
+		<SimpleData name="Field_1">STC Metro</SimpleData>
+		<SimpleData name="LINEA">B</SimpleData>
+		<SimpleData name="NOMBRE">Ciudad Azteca</SimpleData>
+		<SimpleData name="SISTEMA">STC Metro</SimpleData>
+		<SimpleData name="TIPO">Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0275097173377,19.5345130651114</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
