@@ -10,6 +10,14 @@ function parse_commandline()
     during January 2020"
 
     @add_arg_table! s begin
+        "--kmetro", "-k"
+            help = "worst case scenario parameter"
+            arg_type = Float64
+            default = 5.0
+        "--ametro", "-a"
+            help = "reliability parameter"
+            arg_type = Float64
+            default = 5.0
         "--line", "-l"
             help = "metro line to drop"
             arg_type = String
@@ -42,6 +50,10 @@ function main()
     init_time = now()
     # Parse arguments from commandline
     parsed_args = parse_commandline()
+    # Worst case scenario parameter
+    kmetro::Float64 = parsed_args["kmetro"]
+    # Reliability parameter
+    αmetro::Float64 = parsed_args["ametro"]
     # Metro line to drop
     line::String = parsed_args["line"]
     # Number of Monte Carlo samples
@@ -50,6 +62,8 @@ function main()
     output::String = parsed_args["output"]
     # Print header
     println("MexicoCityMetro January 2020 timeseries")
+    println("• Worst case scenario parameter: ", kmetro)
+    println("• Reliability parameter: ", αmetro)
     println("• Metro line to drop: ", line == "0" ? "None" : line)
     println("• Number of Monte Carlo samples: ", N)
     println("• Output file: ", output)
@@ -67,9 +81,7 @@ function main()
     maximum_distance_to_metro = 10_000.0 # 10 km
     metro_mean_velocity = 600.0 # 36 km/h
     traffic_mean_velocity = 300.0 # 18 km/h
-    kmetro = 5.0
     ktraffic = 5.0
-    αmetro = 5.0
     αtraffic = 1.0
     # Mobility network
     agebs_df = load_agebs()
